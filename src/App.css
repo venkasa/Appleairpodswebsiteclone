@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  height: 400vh;
 }
 
 .App-logo {
@@ -22,6 +23,8 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  top: 0;
+  position: sticky;
 }
 
 .App-link {
